@@ -70,7 +70,7 @@ int main(void)
   /* USER CODE BEGIN 1 */
 	
 	uint8_t n,k,m;
-	int8_t i;
+	int8_t i,j;
   char *arr;
 	
   n = 178;
