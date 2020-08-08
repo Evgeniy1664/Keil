@@ -73,7 +73,7 @@ int main(void)
 	int8_t i;
   char *arr;
 	
-  n = 178;
+  n = 200;
   k = n;
   m = 0;
  
